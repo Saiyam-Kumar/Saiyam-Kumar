@@ -11,7 +11,7 @@
 
 ## 🧠 Current Focus
 
-- 📘 **DSA Journey** — Solving Data Structures & Algorithms problems in **C++**
+- 📘 ** C++ DSA Journey** — Solving Data Structures & Algorithms problems in **C++**
 - 🚀 Solving problems on **LeetCode**
 - ☕ Learning **Java Programming Language**
 - 💪 Strengthening **core CS fundamentals and problem-solving skills**
