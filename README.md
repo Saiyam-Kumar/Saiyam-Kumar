@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saiyam Kumar</h1>
 <h3 align="center">CSE Student | Problem Solver | Developer</h3>
 
+<p align="center">
+<a href="https://github.com/Saiyam-Kumar"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
+<a href="https://linkedin.com/in/saiyam-kumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+<a href="mailto:saiyamkumar08@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+</p>
+
 ---
 
 ## 🧠 Current Focus
@@ -52,13 +58,6 @@
 - 🔹 LeetCode: https://leetcode.com/u/Saiyam_Kumar/
 - 🔹 Codeforces: https://codeforces.com/profile/Saiyam_Kumar
 - 🔹 AtCoder: https://atcoder.jp/users/Saiyam_Kumar
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **saiyamkumar08@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/saiyam-kumar**
 
 ---
 
