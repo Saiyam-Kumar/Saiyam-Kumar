@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saiyam Kumar</h1>
+<h1 align="center">Hi , I'm Saiyam Kumar 👋</h1>
 <h3 align="center">CSE Student | Problem Solver | Developer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## 🧠 Current Focus
 
 - 📘 **C++ DSA Journey** — Solving Data Structures & Algorithms problems in C++  
-- 🚀 Solving problems on **LeetCode**  
+- 🚀 Solving problems on **LeetCode** and **Codeforces** 
 - ☕ Learning **Java Programming Language**  
 - 💪 Strengthening **core CS fundamentals and problem-solving skills**
 
