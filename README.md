@@ -37,7 +37,7 @@
 
 ## 📚 Currently Learning
 
-- Stacks and Queues in C++
+- Trees and Graphs in C++
 - Java Programming Language
 - Advanced Problem Solving
 
