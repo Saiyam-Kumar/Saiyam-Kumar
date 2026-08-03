@@ -20,21 +20,28 @@ Building full-stack applications with the MERN stack, solving Data Structures & 
 
 ## Current Focus
 
-- 500+ algorithmic problems solved across coding platforms
+- Solved **500+ algorithmic problems** across coding platforms
 - Building real-world MERN stack projects
 - Learning scalable backend development
 - Improving software design and engineering fundamentals
 
 ## Connect
 
-- GitHub — https://github.com/Saiyam-Kumar
-- LinkedIn — https://www.linkedin.com/in/saiyam-kumar/
-- LeetCode — https://leetcode.com/u/Saiyam_Kumar/
-- Codeforces — https://codeforces.com/profile/Saiyam_Kumar
-- AtCoder — https://atcoder.jp/users/Saiyam_Kumar
-- Email — mailto:saiyamkumar08@gmail.com
+<p align="center">
+  <a href="https://github.com/Saiyam-Kumar">GitHub</a> •
+  <a href="https://www.linkedin.com/in/saiyam-kumar/">LinkedIn</a> •
+  <a href="mailto:saiyamkumar08@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Saiyam_Kumar/">LeetCode</a> •
+  <a href="https://codeforces.com/profile/Saiyam_Kumar">Codeforces</a> •
+  <a href="https://atcoder.jp/users/Saiyam_Kumar">AtCoder</a>
+</p>
 
 ---
 
-*"Building. Learning. Improving."*
+> *"I believe the best way to learn software engineering is by building, solving problems, and improving a little every day."*
+
+⭐ If you like my work, feel free to explore my repositories and connect with me!
 ```
