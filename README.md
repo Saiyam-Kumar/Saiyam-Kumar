@@ -1,64 +1,27 @@
-<h1 align="center">Hi , I'm Saiyam Kumar 👋</h1>
-<h3 align="center">CSE Student | Problem Solver | Developer</h3>
+# Hi 👋, I'm Saiyam Kumar
 
-<p align="center">
-<a href="https://github.com/Saiyam-Kumar"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
-<a href="https://linkedin.com/in/saiyam-kumar"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-<a href="mailto:saiyamkumar08@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
-</p>
+CSE undergraduate interested in building scalable software and becoming a better engineer every day.
 
----
+I spend most of my time solving algorithmic problems in C++, learning modern web technologies, and building projects that strengthen my understanding of full-stack development.
 
-## 🧠 Current Focus
+## Current
 
-- 📘 **C++ DSA Journey** — Solving Data Structures & Algorithms problems in C++  
-- 🚀 Solving problems on **LeetCode** and **Codeforces** 
-- ☕ Learning **Java Programming Language**  
-- 💪 Strengthening **core CS fundamentals and problem-solving skills**
+• 500+ DSA problems solved
 
----
+• Building MERN stack applications
 
-## 💻 Tech Stack
+• Learning React, Node.js & MongoDB
 
-- C++
-- Java
-- Git
-- GitHub
+• Exploring system design and backend development
 
----
+## Tech
 
-## 🧩 Core Strength
+C++ • Java • JavaScript
 
-- Data Structures & Algorithms  
-- Problem Solving  
-- Object-Oriented Programming  
+React • Node.js • Express • MongoDB
 
----
+Git • GitHub • Vercel
 
-## 📚 Currently Learning
+## Connect
 
-- Trees and Graphs in C++
-- Java Programming Language
-- Advanced Problem Solving
-
----
-
-## 🎯 2026 Goals
-
-- 🌐 Focus on **Full Stack Web Development**
-- 🚀 Build **real-world projects**
-- ☕ **Strengthen core Java concepts**
-- 🧠 Master **Data Structures & Algorithms**
-- 👨‍💻 Grow into a **strong Software Engineer**
-
----
-
-## 🏆 Competitive Programming Profiles
-
-- 🔹 LeetCode: https://leetcode.com/u/Saiyam_Kumar/
-- 🔹 Codeforces: https://codeforces.com/profile/Saiyam_Kumar
-- 🔹 AtCoder: https://atcoder.jp/users/Saiyam_Kumar
-
----
-
-⭐️ From [Saiyam-Kumar](https://github.com/Saiyam-Kumar)
+GitHub • LinkedIn • LeetCode • Codeforces • AtCoder
