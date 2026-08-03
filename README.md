@@ -1,66 +1,40 @@
-# Hi 👋, I'm Saiyam Kumar
+# Hi, I'm Saiyam Kumar
 
-CSE undergraduate passionate about software engineering, problem solving, and building products that make an impact.
+CSE undergraduate passionate about software engineering, problem solving, and building web applications.
 
-I enjoy solving algorithmic problems in C++, building full-stack web applications, and continuously improving my understanding of computer science fundamentals. I'm currently focused on becoming a well-rounded software engineer through consistent learning and hands-on projects.
+I enjoy solving algorithmic problems, building full-stack applications, and strengthening my computer science fundamentals. Currently, I'm focused on developing scalable web applications while continuously improving my problem-solving skills.
 
-## What I'm Building
+## What I'm Working On
 
-- 🌐 Full Stack Web Applications with the **MERN Stack**
-- 💻 Projects that solve real-world problems
-- 📚 A strong foundation in **Data Structures & Algorithms**
-- 🚀 A portfolio that reflects continuous growth as a developer
+Building full-stack applications with the MERN stack, solving Data Structures & Algorithms problems, and creating projects that strengthen my software engineering skills.
 
 ## Tech Stack
 
-**Languages**
+**Languages** — C++, Java, JavaScript
 
-C++ • Java • JavaScript
+**Frontend** — HTML, CSS, React, Vite
 
-**Frontend**
+**Backend** — Node.js, Express.js, MongoDB, REST APIs
 
-HTML • CSS • React • Vite
-
-**Backend**
-
-Node.js • Express.js • MongoDB • REST APIs
-
-**Tools**
-
-Git • GitHub • VS Code • Vercel • MongoDB Atlas
+**Tools** — Git, GitHub, VS Code, Vercel, MongoDB Atlas
 
 ## Current Focus
 
-- Solved **500+ algorithmic problems** across coding platforms
+- 500+ algorithmic problems solved across coding platforms
+- Building real-world MERN stack projects
 - Learning scalable backend development
-- Building production-ready MERN projects
-- Exploring software design and best engineering practices
+- Improving software design and engineering fundamentals
 
 ## Connect
 
-<p align="left">
-  <a href="https://github.com/Saiyam-Kumar">
-    <img src="https://img.shields.io/badge/GitHub-Saiyam--Kumar-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/saiyam-kumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Saiyam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:saiyamkumar08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/Saiyam_Kumar/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-  <a href="https://codeforces.com/profile/Saiyam_Kumar">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge">
-  </a>
-  <a href="https://atcoder.jp/users/Saiyam_Kumar">
-    <img src="https://img.shields.io/badge/AtCoder-Profile-000000?style=for-the-badge">
-  </a>
-</p>
+- GitHub — https://github.com/Saiyam-Kumar
+- LinkedIn — https://www.linkedin.com/in/saiyam-kumar/
+- LeetCode — https://leetcode.com/u/Saiyam_Kumar/
+- Codeforces — https://codeforces.com/profile/Saiyam_Kumar
+- AtCoder — https://atcoder.jp/users/Saiyam_Kumar
+- Email — mailto:saiyamkumar08@gmail.com
 
 ---
 
-> *"I believe the best way to learn software engineering is by building, solving problems, and improving a little every day."*
-
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+*"Building. Learning. Improving."*
+```
