@@ -1,4 +1,4 @@
-# Hi, I'm Saiyam Kumar
+# Hi 👋, I'm Saiyam Kumar
 
 CSE undergraduate passionate about software engineering, problem solving, and building web applications.
 
