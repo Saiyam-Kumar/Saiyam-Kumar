@@ -20,7 +20,7 @@ Building full-stack applications with the MERN stack, solving Data Structures & 
 
 ## Current Focus
 
-- Solved **500+ algorithmic problems** across coding platforms
+- Solved **700+ algorithmic problems** across coding platforms
 - Building real-world MERN stack projects
 - Learning scalable backend development
 - Improving software design and engineering fundamentals
