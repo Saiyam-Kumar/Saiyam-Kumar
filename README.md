@@ -35,7 +35,7 @@ Building full-stack applications with the MERN stack, solving Data Structures & 
 
 <p align="center">
   <a href="https://leetcode.com/u/Saiyam_Kumar/">LeetCode</a> •
-  <a href="https://codeforces.com/profile/Saiyam_Kumar">Codeforces</a> •
+  <a href="https://codeforces.com/profile/Saiyam_Kumar.">Codeforces</a> •
   <a href="https://atcoder.jp/users/Saiyam_Kumar">AtCoder</a>
 </p>
 
