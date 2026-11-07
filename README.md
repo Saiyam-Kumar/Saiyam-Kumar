@@ -40,7 +40,7 @@ Building practical full-stack applications, exploring Artificial Intelligence, e
   <a href="https://leetcode.com/u/Saiyam_Kumar/">LeetCode</a> •
   <a href="https://codeforces.com/profile/Saiyam_Kumar">Codeforces</a> •
   <a href="https://atcoder.jp/users/Saiyam_Kumar">AtCoder</a> •
-  <a href="https://www.codechef.com/users/saiyam_kumar">CodeChef</a>
+  <a href="https://www.codechef.com/users/saiyam_kumar.">CodeChef</a>
 </p>
 
 ---
